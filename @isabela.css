@@ -3,18 +3,28 @@ h1 {
     background-color: aqua;
 }
 h3{
-    background-color: blue;
+    font-style: oblique;
+    background-color: pink;
 }
 
 p {
     text-align: center;
     font-size: medium;
 }
-
 strong {
     font-size: larger;
 }
 
 body {
-    background-color: blueviolet;
+    background-color: purple;
+}
+.imagem1 {
+    width: 20px;
+}
+.motor {
+    background-color: forestgreen
+
+}
+.carro {
+   color: aqua;
 }
