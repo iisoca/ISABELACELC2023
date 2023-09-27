@@ -28,14 +28,15 @@ body {
 .desenvolvimento {
    color: aqua;
 }
+lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
 }
-.lista {
-        display: inline-block;
-        padding: 5%;
-        margin-right: 10%;
-    }
-.lista {
-        display: inline-block;
-        padding: 5%;
-        margin-right: 10%;
-    }
